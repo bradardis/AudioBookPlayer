@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BookFragments</string>
+    <string name="title1">title1</string>
+    <string name="author1">author1</string>
+    <string name="title2">title2</string>
+    <string name="author2">author2</string>
+    <string name="title3">title3</string>
+    <string name="author3">author3</string>
+</resources>
